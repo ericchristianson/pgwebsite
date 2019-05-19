@@ -42,3 +42,5 @@ fields:
     required: false
   label: product_url
   description: product url
+pages:
+- Oyster Mushroom.md
